@@ -1,0 +1,1661 @@
+fileFormatVersion: 2
+guid: d54f47faa33c9f2469d36627b18dcc22
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: King black inverted selected
+    21300002: King black inverted
+    21300004: King black selected
+    21300006: King black
+    21300008: King golden inverted rotated
+    21300010: King golden inverted
+    21300012: King golden selected
+    21300014: King golden
+    21300016: King marble rotated selected
+    21300018: King marble rotated
+    21300020: King marble selected
+    21300022: King marble
+    21300024: King metal rotated selected
+    21300026: King metal rotated
+    21300028: King metal selected
+    21300030: King metal
+    21300032: King white inverted selected
+    21300034: King white inverted
+    21300036: King white selected
+    21300038: King white
+    21300040: King wood rotated selected
+    21300042: King wood rotated
+    21300044: King wood selected
+    21300046: King wood
+    21300048: Knight  white rotated selected
+    21300050: Knight  white rotated
+    21300052: Knight  white selected
+    21300054: Knight  white
+    21300056: Knight black rotated selected
+    21300058: Knight black rotated
+    21300060: Knight black selected
+    21300062: Knight black
+    21300064: Knight golden rotated selected
+    21300066: Knight golden rotated
+    21300068: Knight golden selected
+    21300070: Knight golden
+    21300072: Knight marble rotated selected
+    21300074: Knight marble rotated
+    21300076: Knight marble selected
+    21300078: Knight marble
+    21300080: Knight metal rotated selected
+    21300082: Knight metal rotated
+    21300084: Knight metal selected
+    21300086: Knight metal
+    21300088: Knight wood rotated selected
+    21300090: Knight wood rotated
+    21300092: Knight wood selected
+    21300094: Knight wood
+    21300096: Pawn black rotated selected
+    21300098: Pawn black rotated
+    21300100: Pawn black selected
+    21300102: Pawn black
+    21300104: Pawn golden rotated selected
+    21300106: Pawn golden rotated
+    21300108: Pawn golden selected
+    21300110: Pawn golden
+    21300112: Pawn marble rotated selected
+    21300114: Pawn marble rotated
+    21300116: Pawn marble selected
+    21300118: Pawn marble
+    21300120: Pawn metal rotated selected
+    21300122: Pawn metal rotated
+    21300124: Pawn metal selected
+    21300126: Pawn metal
+    21300128: Pawn white rotated selected
+    21300130: Pawn white rotated
+    21300132: Pawn white selected
+    21300134: Pawn white
+    21300136: Pawn wood rotated selected
+    21300138: Pawn wood rotated
+    21300140: Pawn wood selected
+    21300142: Pawn wood
+    21300144: Lit square NEW
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: King black inverted selected
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 899
+        width: 60
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49596775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King black inverted
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 668
+        width: 57
+        height: 115
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.50869566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King black selected
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 902
+        width: 60
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5165289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King black
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 600
+        width: 56
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51293105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King golden inverted rotated
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 906
+        width: 60
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.508547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King golden inverted
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 785
+        width: 57
+        height: 119
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King golden selected
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 776
+        width: 57
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5082645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King golden
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 668
+        width: 57
+        height: 115
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.50869566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King marble rotated selected
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 906
+        width: 60
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.508547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King marble rotated
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 785
+        width: 57
+        height: 119
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King marble selected
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 784
+        width: 58
+        height: 118
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.5042373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King marble
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 659
+        width: 53
+        height: 121
+      alignment: 9
+      pivot: {x: 0.4528302, y: 0.5082645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King metal rotated selected
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 906
+        width: 60
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.508547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King metal rotated
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 653
+        width: 53
+        height: 121
+      alignment: 9
+      pivot: {x: 0.4528302, y: 0.5082645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King metal selected
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 839
+        width: 59
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.51229507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King metal
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 785
+        width: 57
+        height: 119
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King white inverted selected
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 904
+        width: 60
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King white inverted
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 666
+        width: 56
+        height: 116
+      alignment: 9
+      pivot: {x: 0.51785713, y: 0.51293105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King white selected
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 782
+        width: 58
+        height: 118
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.5042373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King white
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 661
+        width: 53
+        height: 121
+      alignment: 9
+      pivot: {x: 0.4528302, y: 0.5082645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King wood rotated selected
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 784
+        width: 59
+        height: 120
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.50416666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King wood rotated
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 668
+        width: 57
+        height: 115
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.50869566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King wood selected
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 906
+        width: 60
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.508547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King wood
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 718
+        width: 57
+        height: 119
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight  white rotated selected
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 478
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight  white rotated
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 492
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight  white selected
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 575
+        width: 50
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight  white
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 492
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight black rotated selected
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 568
+        width: 50
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight black rotated
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 491
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight black selected
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 472
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight black
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 484
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight golden rotated selected
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 578
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight golden rotated
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 424
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight golden selected
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 562
+        width: 50
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight golden
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 424
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight marble rotated selected
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 578
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight marble rotated
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 406
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight marble selected
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 577
+        width: 50
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight marble
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 405
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight metal rotated selected
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 570
+        width: 50
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight metal rotated
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 406
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight metal selected
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 510
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight metal
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 398
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight wood rotated selected
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 484
+        width: 50
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight wood rotated
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 392
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight wood selected
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 510
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight wood
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 386
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lit square NEW
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 963
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn black rotated selected
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 407
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn black rotated
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 247
+        width: 43
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49305555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn black selected
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 330
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn black
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 256
+        width: 42
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.49305555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn golden rotated selected
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 321
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn golden rotated
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 255
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn golden selected
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 321
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn golden
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 255
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn marble rotated selected
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 315
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn marble rotated
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 241
+        width: 43
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49305555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn marble selected
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 309
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn marble
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 330
+        width: 42
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.5067568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn metal rotated selected
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 347
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn metal rotated
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 255
+        width: 42
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.49305555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn metal selected
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 347
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn metal
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 274
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn white rotated selected
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 347
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn white rotated
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 43
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49305555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn white selected
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 329
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn white
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 271
+        width: 42
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.5067568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn wood rotated selected
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 328
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn wood rotated
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 201
+        width: 40
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn wood selected
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 253
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn wood
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 274
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

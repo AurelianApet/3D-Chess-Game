@@ -1,0 +1,66 @@
+{
+  "project_info": {
+    "project_number": "851086776643",
+    "firebase_url": "https://knights-domain-chess-91411640.firebaseio.com",
+    "project_id": "knights-domain-chess-91411640",
+    "storage_bucket": "knights-domain-chess-91411640.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851086776643:android:ee4b85ff9459506f",
+        "android_client_info": {
+          "package_name": "com.kingsolo.chess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851086776643-1pdoqqr4nt5homilq81bsrukvqprr5v4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingsolo.chess",
+            "certificate_hash": "184d44839a713a17f096e8cefc89a25efef83f67"
+          }
+        },
+        {
+          "client_id": "851086776643-lr220mtl722rh4nn9pk5labfs1ldmjhc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "851086776643-lr220mtl722rh4nn9pk5labfs1ldmjhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRDYRnNbEUsejaIyQDnuNOaVc-MvbObH0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851086776643-lr220mtl722rh4nn9pk5labfs1ldmjhc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851086776643-j1054rrb5k9hv6p94t2lduefj9fareg4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kingsolo.chess"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

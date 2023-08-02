@@ -1,0 +1,21 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Chess/Upgrades/Game_UI/Game_UI.tpsheet
+- Assets/Chess/Upgrades/Home_UI/Home_UI.tpsheet
+- Assets/Chess/Upgrades/Loading message/Loading_Scene/loading.tpsheet
+- Assets/Chess/Upgrades/Pieces/Pieces.tpsheet
+- Assets/Chess/Upgrades/POPUP_UI/POPUP_UI.tpsheet
+textureFileNames:
+- Assets/Chess/Upgrades/Game_UI/Game_UI.png
+- Assets/Chess/Upgrades/Home_UI/Home_UI.png
+- Assets/Chess/Upgrades/Loading message/Loading_Scene/loading.png
+- Assets/Chess/Upgrades/Pieces/Pieces.png
+- Assets/Chess/Upgrades/POPUP_UI/POPUP_UI.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0
